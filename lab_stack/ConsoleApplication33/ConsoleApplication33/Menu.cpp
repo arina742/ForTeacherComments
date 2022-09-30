@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include "Stack.h"
 #include "Menu.h"
-
+//create menu
 Stack stack_1, stack_2;
 int main()
 {
@@ -130,4 +130,4 @@ int ChoiceStack()
     std::cin >> choice;
     return choice;
 }
-
+//....
